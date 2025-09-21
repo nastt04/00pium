@@ -21,3 +21,7 @@ categoria-videos {
                     object-fit: cover;
                         margin: 5px;
                         }
+video {
+    margin-top: 20px; 
+    text-align: center; 
+}
