@@ -11,12 +11,13 @@ body {
                                 background: black;
                                     color: red;
                                     }
-categoria-videos {
-        text-align: center;
-        }
 chamada-texto p {
         margin-bottom: 5px;
 }
+
+categoria-videos {
+        text-align: center;
+        }
         
         .categoria-videos img {
             width: 300px;
