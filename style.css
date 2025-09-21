@@ -1,0 +1,13 @@
+body {
+        background: black;
+            color: whitesmoke;
+            }
+
+            header{
+                font-size:50px;
+                    border-bottom: solid 4px red;
+                        padding: 20px;
+                            text-align: center;
+                                background: black;
+                                    color: red;
+                                    }
