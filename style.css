@@ -14,14 +14,13 @@ body {
 categoria-videos {
         text-align: center;
         }
-
+chamada-texto p {
+        margin-bottom: 2px;
+}
+        
         .categoria-videos img {
             width: 300px;
                 height: 300px;
                     object-fit: cover;
                         margin: 5px;
                         }
-video {
-    margin-top: 20px; 
-    text-align: center; 
-}
